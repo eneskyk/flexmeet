@@ -37,4 +37,4 @@ This project is licensed under the MIT License. For more information,
 please refer to the LICENSE file.
 
 I hope this README file provides useful information about the Flexmeet (SC Project).
-If you have any questions or feedback, please let me know. Thank you!
+If you have any questions or feedback, please let me know. Thank you! 
