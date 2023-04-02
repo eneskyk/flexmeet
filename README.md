@@ -20,8 +20,11 @@ contains the code part of the visible screens.
 To run this project on your local machine, follow these steps:
 
 1.Complete the installation of Flutter.
+
 2.Clone or download this repo.
+
 3.Open your console and navigate to the project folder.
+
 4.Run the command flutter run to run the project.
 
 ## Contributing
