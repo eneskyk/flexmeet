@@ -28,7 +28,7 @@ To run this project on your local machine, follow these steps:
 
 ## Contributing
 
-If you would like to contribute to this project, please visit the GitHub 
+If you would like to contribute to this project, please visit the GitHub
 repository and create a pull request.
 
 ## License
