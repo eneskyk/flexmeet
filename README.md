@@ -6,7 +6,6 @@ a platform to facilitate and support the lives of people with disabilities.
 
 ## Technologies Used
 
-
 This project was developed using Google Maps and Flutter technologies.
 The project will be made into a structure suitable for Firebase integration and Block architecture.
 
