@@ -12,7 +12,6 @@ The project will be made into a structure suitable for Firebase integration and 
 
 ## Architecture
 
-
 This project has been created in a structure that is divided into Core and Future.
 The Core part contains the main parts such as Widget, Common, Color, while the Future part
 contains the code part of the visible screens.
