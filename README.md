@@ -4,19 +4,19 @@ This project is a Flutter project that aims to bring together people with disabi
 their guardians, families and volunteer educators. The aim of the project is to provide
 a platform to facilitate and support the lives of people with disabilities.
 
-## Technologies Used
 
+## Technologies Used
 This project was developed using Google Maps and Flutter technologies.
 The project will be made into a structure suitable for Firebase integration and Block architecture.
 
-## Architecture
 
+## Architecture
 This project has been created in a structure that is divided into Core and Future.
 The Core part contains the main parts such as Widget, Common, Color, while the Future part
 contains the code part of the visible screens.
 
-## Installation
 
+## Installation
 To run this project on your local machine, follow these steps:
 
 1.Complete the installation of Flutter.
@@ -27,13 +27,13 @@ To run this project on your local machine, follow these steps:
 
 4.Run the command flutter run to run the project.
 
-## Contributing
 
+## Contributing
 If you would like to contribute to this project, please visit the GitHub
 repository and create a pull request.
 
-## License
 
+## License
 This project is licensed under the MIT License. For more information, 
 please refer to the LICENSE file.
 
