@@ -6,11 +6,13 @@ a platform to facilitate and support the lives of people with disabilities.
 
 
 ## Technologies Used
+
 This project was developed using Google Maps and Flutter technologies.
 The project will be made into a structure suitable for Firebase integration and Block architecture.
 
 
 ## Architecture
+
 This project has been created in a structure that is divided into Core and Future.
 The Core part contains the main parts such as Widget, Common, Color, while the Future part
 contains the code part of the visible screens.
@@ -29,11 +31,13 @@ To run this project on your local machine, follow these steps:
 
 
 ## Contributing
+
 If you would like to contribute to this project, please visit the GitHub
 repository and create a pull request.
 
 
 ## License
+
 This project is licensed under the MIT License. For more information, 
 please refer to the LICENSE file.
 
